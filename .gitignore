@@ -66,3 +66,8 @@ crashlytics-build.properties
 #But not source file with postfix. which is everything but a folder
 !*.*.meta
 Assets/Lean
+Assets/Editor/
+Assets/Plugins/
+Assets/Resources/
+Assets/StreamingAssets/
+Assets/unity-ui-extensions/
